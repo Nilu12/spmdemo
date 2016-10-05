@@ -1,0 +1,405 @@
+201504100120043@cs-w305 MINGW32 ~ (master)
+$ cd C:/Users/201504100120043/Desktop/spm2
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git init f1.txt
+Initialized empty Git repository in C:/Users/201504100120043/Desktop/spm2/f1.txt                                                                                                                /.git/
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git init f2.txt
+Initialized empty Git repository in C:/Users/201504100120043/Desktop/spm2/f2.txt                                                                                                                /.git/
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add.f1.txt
+git: 'add.f1.txt' is not a git command. See 'git --help'.
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add --all
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/a.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/analytics.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/android_3p-bundle.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/css.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/css_002.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/default.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/docs.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/gcm_lists.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/gms_lists.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/jd_lists_unified_en.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/jsapi.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/linkid.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/lists.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/lists_002.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/lists_003.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/script_foot_closure_android.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Defining Custom Animations _ Android Dev                                                                                                                elopers_files/ytblogger_lists_unified.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/analytics.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/core.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/crayon.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/css.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/font-awesome.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/github.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/green.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/jquery-migrate.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/tc-scripts.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/tc_common.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Quickstart_files/wp-emoji-release.js.
+The file will have its original line endings in your working directory.
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git commit -m "some message goes here"
+[master (root-commit) 5d459f7] some message goes here
+ 56 files changed, 60161 insertions(+)
+ create mode 100644 Defining Custom Animations _ Android Developers.htm
+ create mode 100644 Defining Custom Animations _ Android Developers_files/Contac                                                                                                                tsAnim.mp4
+ create mode 100644 Defining Custom Animations _ Android Developers_files/Contac                                                                                                                tsAnim.ogv
+ create mode 100644 Defining Custom Animations _ Android Developers_files/Contac                                                                                                                tsAnim.webm
+ create mode 100644 Defining Custom Animations _ Android Developers_files/SceneT                                                                                                                ransition.png
+ create mode 100644 Defining Custom Animations _ Android Developers_files/a
+ create mode 100644 Defining Custom Animations _ Android Developers_files/analyt                                                                                                                ics.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/androi                                                                                                                d_3p-bundle.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/androi                                                                                                                d_logo.png
+ create mode 100644 Defining Custom Animations _ Android Developers_files/css.cs                                                                                                                s
+ create mode 100644 Defining Custom Animations _ Android Developers_files/css_00                                                                                                                2.css
+ create mode 100644 Defining Custom Animations _ Android Developers_files/defaul                                                                                                                t.css
+ create mode 100644 Defining Custom Animations _ Android Developers_files/docs.j                                                                                                                s
+ create mode 100644 Defining Custom Animations _ Android Developers_files/gcm_li                                                                                                                sts.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/gms_li                                                                                                                sts.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/jd_lis                                                                                                                ts_unified_en.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/jsapi
+ create mode 100644 Defining Custom Animations _ Android Developers_files/linkid                                                                                                                .js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/lists.                                                                                                                js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/lists_                                                                                                                002.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/lists_                                                                                                                003.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/script                                                                                                                _foot_closure_android.js
+ create mode 100644 Defining Custom Animations _ Android Developers_files/ytblog                                                                                                                ger_lists_unified.js
+ create mode 100644 Quickstart.htm
+ create mode 100644 Quickstart_files/analytics.js
+ create mode 100644 Quickstart_files/comment-reply.js
+ create mode 100644 Quickstart_files/core.js
+ create mode 100644 Quickstart_files/crayon.css
+ create mode 100644 Quickstart_files/crayon.js
+ create mode 100644 Quickstart_files/css.css
+ create mode 100644 Quickstart_files/dashicons.css
+ create mode 100644 Quickstart_files/extra.css
+ create mode 100644 Quickstart_files/font-awesome.css
+ create mode 100644 Quickstart_files/github.css
+ create mode 100644 Quickstart_files/green.css
+ create mode 100644 Quickstart_files/jquery-migrate.js
+ create mode 100644 Quickstart_files/jquery.css
+ create mode 100644 Quickstart_files/jquery.js
+ create mode 100644 Quickstart_files/jquery_002.js
+ create mode 100644 Quickstart_files/logo.png
+ create mode 100644 Quickstart_files/modernizr.js
+ create mode 100644 Quickstart_files/monaco.css
+ create mode 100644 Quickstart_files/quicktags.js
+ create mode 100644 Quickstart_files/retina.js
+ create mode 100644 Quickstart_files/simplexyscreen-300x153.png
+ create mode 100644 Quickstart_files/style.css
+ create mode 100644 Quickstart_files/tc-scripts.js
+ create mode 100644 Quickstart_files/tc_common.css
+ create mode 100644 Quickstart_files/wp-embed.js
+ create mode 100644 Quickstart_files/wp-emoji-release.js
+ create mode 100644 SPM_Lab_13_9_2016.txt
+ create mode 100644 SPM_Lab_26_30_Aug'2016.txt
+ create mode 100644 desktop.ini
+ create mode 100644 file4.txt
+ create mode 100644 progit-en.1084.pdf
+ create mode 160000 spmdemo
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   ../spmdemo (modified content, untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff HEAD f1.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --staged
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add --all
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --chached
+error: invalid option: --chached
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --cached
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git commit -m "echo"
+On branch master
+Changes not staged for commit:
+        modified:   ../spmdemo (modified content, untracked content)
+
+no changes added to commit
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git commit -m f1.txt
+On branch master
+Changes not staged for commit:
+        modified:   ../spmdemo (modified content, untracked content)
+
+no changes added to commit
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add nilu.txt
+fatal: pathspec 'nilu.txt' did not match any files
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add nilam.txt
+fatal: pathspec 'nilam.txt' did not match any files
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add divu.txt
+fatal: pathspec 'divu.txt' did not match any files
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add divu.txt
+fatal: pathspec 'divu.txt' did not match any files
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add.divu.txt
+git: 'add.divu.txt' is not a git command. See 'git --help'.
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git --help
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ echo 'spm2'>divu.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add README
+fatal: pathspec 'README' did not match any files
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add readme.txt
+fatal: pathspec 'readme.txt' did not match any files
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add f1.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ echo 'spm2'>readme.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ echo 'spm2'>readme2.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git commit -m readme2.txt
+[master 7e00345] readme2.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 spm2/f1.txt/nilu.txt.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git commit -m readme.txt
+On branch master
+Changes not staged for commit:
+        modified:   ../spmdemo (modified content, untracked content)
+
+Untracked files:
+        divu.txt
+        readme.txt
+        readme2.txt
+
+no changes added to commit
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   ../spmdemo (modified content, untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        divu.txt
+        readme.txt
+        readme2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --cached
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff
+diff --git a/spmdemo b/spmdemo
+--- a/spmdemo
++++ b/spmdemo
+@@ -1 +1 @@
+-Subproject commit a72f3f3cfffdc59c30afdd7965e6401a35983736
++Subproject commit a72f3f3cfffdc59c30afdd7965e6401a35983736-dirty
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --cached
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --staged
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git HEAD readme.txt
+git: 'HEAD' is not a git command. See 'git --help'.
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff HEAD readme.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ diff HEAD readme2.txt
+diff: HEAD: No such file or directory
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff HEAD f1.txt
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff HEAD
+diff --git a/spmdemo b/spmdemo
+--- a/spmdemo
++++ b/spmdemo
+@@ -1 +1 @@
+-Subproject commit a72f3f3cfffdc59c30afdd7965e6401a35983736
++Subproject commit a72f3f3cfffdc59c30afdd7965e6401a35983736-dirty
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git diff --cached
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git add file1.txt
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   ../spmdemo (modified content, untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../nilam.txt.txt
+        divu.txt
+        readme.txt
+        readme2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git -show-branches
+Unknown option: -show-branches
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git branch hellobranch
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git log --online --decorate
+fatal: unrecognized argument: --online
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (master)
+$ git log --oneline --decorate
+7e00345 (HEAD -> master, hellobranch) readme2.txt
+5d459f7 some message goes here
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (hellobranch)
+$ git branch
+* hellobranch
+  master
+
+201504100120043@cs-w305 MINGW32 /c/Users/201504100120043/Desktop/spm2 (hellobranch)
+$ git -show-branches
+Unknown option: -show-branches
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+
